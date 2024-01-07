@@ -1,7 +1,7 @@
-h1 {
-    background-color: #fff;
-}
-
 p {
-    font-size: 440px;
+    font-size: 400;
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
 }
